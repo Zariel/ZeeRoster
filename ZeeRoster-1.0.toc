@@ -1,0 +1,7 @@
+## Interface: 30300
+## Author: Zariel
+## Version: 1.0
+## OptionalDeps: LibStub
+
+LibStub.lua
+ZeeRoster-1.0
